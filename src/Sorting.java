@@ -1,4 +1,3 @@
-// Classe Sorting.java
 public class Sorting {
     public enum Algoritmo { BUBBLE , MERGE }
 
